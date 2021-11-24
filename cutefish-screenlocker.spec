@@ -8,6 +8,8 @@ License:        GPL-3.0-or-later
 Group:          Productivity/Security
 URL:            https://github.com/cutefishos/screenlocker
 Source:         https://github.com/cutefishos/screenlocker/archive/refs/tags/%{version}/%{oname}-%{version}.tar.gz
+
+BuildRequires:  qmake5
 BuildRequires:  cmake
 BuildRequires:  cmake(Qt5LinguistTools)
 BuildRequires:  pam-devel
