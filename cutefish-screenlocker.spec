@@ -2,7 +2,7 @@
 
 Name:           cutefish-screenlocker
 Version:        0.5
-Release:        2
+Release:        3
 Summary:        System screen locker
 License:        GPL-3.0-or-later
 Group:          Productivity/Security
